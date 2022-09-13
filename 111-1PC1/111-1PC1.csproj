@@ -86,7 +86,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="answer.md.pdf" />
-    <Content Include="answer.md.rar" />
+    <Content Include="answer.rar" />
     <None Include="packages.config" />
     <Content Include="readme.md" />
     <None Include="Web.Debug.config">
